@@ -1,2 +1,3 @@
 # Misiones
-Investigar los planes de Dr. Simi
+* Investigar los planes de Dr. Simi
+* Capturar a Red Skull
